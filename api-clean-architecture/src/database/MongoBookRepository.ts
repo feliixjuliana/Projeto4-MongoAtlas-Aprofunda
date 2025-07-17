@@ -6,7 +6,7 @@ export class MongoBookRepository implements BookRepository {
     private toEntity(doc: BookDocs): Book {
         if (!doc) return null as any;
         return new Book({
-            id: doc.id,
+            id: doc._id.toString(),
             title: doc.title,
             bookGenres: doc.bookGenres,
             status: doc.status,
