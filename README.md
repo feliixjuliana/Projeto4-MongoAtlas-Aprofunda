@@ -49,11 +49,11 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/feliixjuliana/Projeto2-Clean-Architecture-Aprofunda.git
+    [ git clone https://github.com/feliixjuliana/Projeto4-MongoAtlas-Aprofunda.git]
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd Projeto2-Clean-Architecture-Aprofunda
+    cd Projeto4-MongoAtlas-Aprofunda
     ```
 3.  **Navegue até o projeto:**
     ```bash
