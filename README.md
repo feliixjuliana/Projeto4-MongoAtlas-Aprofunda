@@ -1,6 +1,6 @@
-# 🚀 Biblioteca TypeScript com Clean Architecture
+# 🚀 Biblioteca TypeScript com conexão MongoDB
 
-Este projeto tem como objetivo aprofundar os conceitos de **Clean Architecture**, aplicando-os em uma estrutura de projeto robusta e escalável, com foco na criação de um **sistema de biblioteca**. 
+Este projeto tem como objetivo aprofundar os conceitos de **MongoDB**, aplicando-os em uma estrutura de projeto robusta e escalável, com foco na criação de um **sistema de biblioteca**. 
 
 ## Funcionalidades
 A API oferece os seguintes endpoints para interação com a biblioteca:
@@ -9,9 +9,15 @@ GET /books: Lista todas os livros.
 
 POST /books: Cria um novo livro.
 
+UPDATE /book:id Edita uma parte do livro
+
+Delete /book:id Apaga um livro cadastrado
+
 🛠️ Conteúdo e Tecnologias
 
 O projeto foi estruturado com base nos seguintes conceitos e ferramentas:
+
+* MongoDB
 
 * Clean Architecture
 
@@ -67,19 +73,10 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 ## 📸 Demonstração
 
-### Teste da Rota GET
+### Enviando para o banco
 
   * **Endpoint:** `http://localhost:3000/books`
-  * ![Captura de tela 2025-06-29 165024](https://github.com/user-attachments/assets/ba989a26-bb40-4b2d-b1a9-24a32ca8116a)
-
-
-
-### Teste da Rota POST
-
-  * **Endpoint:** `http://localhost:3000/books`
-  * ![Captura de tela 2025-06-29 164725](https://github.com/user-attachments/assets/5a9c4edf-4cfb-4a00-93fc-c7fe87136bdc)
-
------
+  * 
 
 
 
