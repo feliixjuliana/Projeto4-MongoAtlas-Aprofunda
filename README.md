@@ -49,7 +49,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 1.  **Clone o repositório:**
     ```bash
-    [ git clone https://github.com/feliixjuliana/Projeto4-MongoAtlas-Aprofunda.git]
+     git clone https://github.com/feliixjuliana/Projeto4-MongoAtlas-Aprofunda.git
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
