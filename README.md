@@ -76,7 +76,12 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 ### Enviando para o banco
 
   * **Endpoint:** `http://localhost:3000/books`
-  * 
+  * <img width="1349" height="695" alt="image" src="https://github.com/user-attachments/assets/48bac792-655a-4050-bebf-029c45a63a52" />
+
+### No banco
+
+  * **Endpoint:** `http://localhost:3000/books`
+  * <img width="1702" height="641" alt="image" src="https://github.com/user-attachments/assets/f89f3e72-b68a-4f81-a3f5-5897cda19854" />
 
 
 
